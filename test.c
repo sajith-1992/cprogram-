@@ -1,4 +1,4 @@
 # include <stdio.h>
-int main( void){
-    printf("hai");
+int main(){
+    printf("print f");
 }
