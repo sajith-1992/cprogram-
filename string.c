@@ -1,8 +1,12 @@
 #include <stdio.h>
+#include <string.h>
 
-int main() {
-  char greetings[] = "Hello World!";
-  printf("%i", greetings[12]);
- 
-  return 0;
+int main()
+{
+string word[2];
+word[0]="hai";
+word[1]="helo"
+printf("%c",word[0]word[0]);// to print the first char
+
+    return 0;
 }
