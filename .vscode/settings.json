@@ -2,6 +2,7 @@
     "files.associations": {
         "gAJSD.C": "cpp",
         "stdio.h": "c",
-        "NULL.C": "cpp"
+        "NULL.C": "cpp",
+        "LINKEDLIST.C": "cpp"
     }
 }
